@@ -1,4 +1,4 @@
-package com.gl4.tp01
+package com.gl4.tp1
 
 import org.junit.Test
 
